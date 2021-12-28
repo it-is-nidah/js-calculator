@@ -1,3 +1,1 @@
-# js-calculator
-
-a simple calculator using HTML, CSS (BEM naming) and vanillaJS
+# learning HMTL with the frontend masters bootcamp
